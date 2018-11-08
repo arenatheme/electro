@@ -11,7 +11,7 @@ The settings\_data.json file stores the theme settings data saved from the theme
 4. Replace settings\_data.json by the file in pre-settings folder.
 
     * Open setting_data.json in pre-settings folder. Click to Open.
-    ![](/assets/setting data.png)
     * Copy content and Paste it to settings_data.json in Web Browser.
     * Click Save.
-    
+    ![](/assets/setting data.png)
+    ![](/assets/paste.png)
