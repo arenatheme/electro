@@ -42,11 +42,11 @@ The theme support 3 type of Mega navigation styles:
 **Settings**
 * LAYOUT
   * Mega navigation trigger: Add the title of the menu that you want to turn into a mega-nav
-![](/assets/mh1.png)
+   ![](/assets/mh1.png)
 
   * Submenu Position: Set position for your submenu (left, right, or center)
   * Width (Mega Navigation Width): Percentage when compared to **Main Menu** block.
-![](/assets/nav-mainblock.png)
+  ![](/assets/mh2.png)
   * Background style: Select background for your Mega Navigation content
    * Background image: Set background image
    * Image size: Set Background image size
@@ -54,14 +54,14 @@ The theme support 3 type of Mega navigation styles:
    * Background color
   * Min height (unit px): Set minimum height of Mega Navigation. You can adjust the height based on the content inside to cover it
   
-* COLUMN 01 - COLUMN 4: Select Component to display as each column. 
+* **COLUMN 01 - COLUMN 4:** Select Component to display as each column. 
    * Content Components: The theme support 7 component types
      * **Menu item: Navigation list**
-     ![](/assets/menuitem.png)
-
-     * **Multiple menu items**: Add multi menu items at 1 column
-     ![](/assets/multiitem.png)
      
+     ![](/assets/mh3.png)
+     * **Multiple menu items**: Add multi menu items at 1 column
+     
+     ![](/assets/ mh4.png)     
      * **Product**: select product to display, we support 2 product to display at one column.
      * **Collection**: display product in one collection as slider
      * **Menu item & Product**: Combine Menu item & Product
@@ -86,7 +86,6 @@ Pretty similar to Horizontal Mega Navigation, except it only supports 3 columns
  
 ##### Mega Navigation with Tab
 
-![](/assets/navi3e.png)
 Most settings will be similar to other mega navigation content types. However due to the large amount of content, you will need to config more.
 * The theme support total **7 tabs**, each tab contain 4 **columns**. Columns Content only support 4 components:
  * Menu item
@@ -94,7 +93,7 @@ Most settings will be similar to other mega navigation content types. However du
  * Image
  * None.
 * Tick **Show Tab 01** to display tab 1.
-* Tab Heading: Display Tab Heading, as you can see in demo is ALLURE
+* Tab Heading: Display Tab Heading
 
 
  
