@@ -7,35 +7,32 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 * Find the theme that you want to edit and click **Customize**
 
 * From the top bar drop-down menu, Select ** Home Page**
-
-![](/assets/mega1.png)
+![](/assets/meganav1.png)
 
 * Select **Header** Section
+![](/assets/headernav.png)
 
-![](/assets/mega1.png)
 * Scoll down to **Main Menu** & **Vertical Menu**. Click & select **Main menu** & **Verticle Menu** for your website. If you dont know how to creat a menu you can follow [instruction](https://help.shopify.com/en/manual/sell-online/online-store/menus-and-links/editing-menus#add-a-menu-item)
 
-![](/assets/navihoz.png)
-* Enable Mega Menu
+![](/assets/meganav2.png)
+
+* **Enable Mega Menu**
 * Menu Flyout Left: Catch **handle navigation** to flyout left
 
 ### ADD MEGA NAVIGATION
 
 * Click Add Content and Select type of navigation
 
-![](/assets/add_content_megamenu.png)
+![](/assets/meganav3.png)
 
 The theme support 3 type of Mega navigation styles:
 
 1. Horizontal Mega Navagation  (aka Mega Navigation)
-
-![](/assets/horizontal_megamenu.png)
+![](/assets/megatype1.png)
 2. Vertical Mega Navigation 
-
-![](/assets/vertical_megamenu.png)
+![](/assets/megatype2.png)
 3. Mega Navigation with Tabs
-
-![](/assets/mega_tab.png)
+![](/assets/megatype3.png)
 
 #### Add Horizontal Mega Navigation Content (Mega Navigation)
 
@@ -44,15 +41,12 @@ The theme support 3 type of Mega navigation styles:
 
 **Settings**
 * LAYOUT
-
   * Mega navigation trigger: Add the title of the menu that you want to turn into a mega-nav
-![](/assets/navtrigger.png)
+![](/assets/mh1.png)
 
   * Submenu Position: Set position for your submenu (left, right, or center)
-
   * Width (Mega Navigation Width): Percentage when compared to **Main Menu** block.
 ![](/assets/nav-mainblock.png)
- 
   * Background style: Select background for your Mega Navigation content
    * Background image: Set background image
    * Image size: Set Background image size
@@ -101,7 +95,6 @@ Most settings will be similar to other mega navigation content types. However du
  * None.
 * Tick **Show Tab 01** to display tab 1.
 * Tab Heading: Display Tab Heading, as you can see in demo is ALLURE
-
 
 
  
