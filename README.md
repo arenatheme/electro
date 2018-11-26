@@ -13,12 +13,15 @@ Your website will have the same interface as our theme demo.
 
 ### Following topics
 
-* [Install theme by Arena Installation app.](/arena-installation.md)
-* [Install theme by Upload Theme Package](/upload-file.md)
-* [Setup converting currencies in your store](/summary/currency.md)
-* [Install Requirement Shopfiy Apps](/app.md)
-* [Setup Shopify Metafield for Extend Function](/shopify-metafield.md) 
-* [Apply Theme Styles](/change-theme-styles.md)
+1. **Install Theme Package**
+    
+    1.1.  [Install theme by Arena Installation app.](/arena-installation.md)
+    1.2. [Install theme by Upload Theme Package](/upload-file.md)
+
+2.[Setup converting currencies in your store](/summary/currency.md)
+3. [Install Requirement Shopfiy Apps](/app.md)
+4. [Setup Shopify Metafield for Extend Function](/shopify-metafield.md) 
+5. [Apply Theme Styles](/change-theme-styles.md)
 
 
 
