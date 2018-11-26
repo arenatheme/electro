@@ -33,7 +33,7 @@ From your Shopify admin, go to
 
 4. Change the section's content by adding and editing the content blocks in the toolbar.
 
-5. Click**Save**or**Publish**to save your changes.
+5. Click **Save** or **Publish** to save your changes.
 
 When you add an image to a section, the file is **added to the **[**Files**](https://help.shopify.com/manual/sell-online/online-store/file-uploads)** section** of your admin. You can reuse an uploaded image in other sections or pages of your store.
 
