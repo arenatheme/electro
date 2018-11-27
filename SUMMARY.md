@@ -2,11 +2,11 @@
 
 ## Readme
 
-* [Support](summary/support.md)
+* [Support](README.md)
 
 ## Getting started
 
-* [Theme Installation](README.md)
+* [Installation](summary/installation.md)
   * [Arena Installation](arena-installation.md)
   * [Upload File](upload-file.md)
   * [Install Requirement Apps](app.md)
