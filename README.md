@@ -1,7 +1,8 @@
 ## Getting started with Electro 4.1
 
-###New to Shopify?
+Online Document: https://arenatheme.gitbooks.io/electro/content/
 
+###New to Shopify?
 
 If you're setting up a Shopify store for the first time, we recommend taking a gander at the Shopify [Help Center](https://help.shopify.com/) for a full overview of the platform.  
 
